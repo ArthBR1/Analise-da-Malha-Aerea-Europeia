@@ -1,2 +1,2 @@
 # Análise da Malha Aérea Europeia
-Análise da malha aérea do continente europeu utilizando python e suas bibliotecas de análise de dados
+Análise da malha aérea do continente europeu utilizando python e suas bibliotecas de análise de dados dentro do Jupyter Notebook
